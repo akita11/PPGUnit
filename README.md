@@ -1,6 +1,6 @@
 # PPG Clip
 
-<img src="https://github.com/akita11/PPGUnit/blob/main/PPGUnit.jpg width="240px">
+<img src="https://github.com/akita11/PPGUnit/blob/main/PPGUnit.jpg" width="240px">
 
 M5Stack社の心拍センサユニット(https://www.switch-science.com/products/5695)と機能的に互換のUnitです。
 光学脈波(PPG)センサのMAX30100を使用し、光学脈波やSpO2、そこから心拍数の計測ができます。
